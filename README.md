@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working a research project that deals with "Quantifying Overruns in Soccer".
+🔭 I’m currently working on a research project that deals with "Quantifying Overruns in Soccer".
 <!--
 **Amulya310/Amulya310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Cancel changes
 
